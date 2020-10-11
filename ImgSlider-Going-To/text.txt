@@ -1,0 +1,7 @@
+Teacher
+https://www.youtube.com/watch?v=jrvndko-6LI&t=1025s
+
+Link references
+Swiper = https://swiperjs.com/demos/
+CSS = https://www.youtube.com/watch?v=q-RCzxoAiGI
+JS = https://www.youtube.com/watch?v=olNh54NmUK0
